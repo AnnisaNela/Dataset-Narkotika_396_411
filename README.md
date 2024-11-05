@@ -8,3 +8,9 @@ Dataset ini terdiri dari kolom-kolom berikut:
 3. Lembaga Peradilan: Lembaga pengadilan yang menangani kasus
 4. Barang Bukti: Daftar barang bukti yang disita dalam kasus
 5. Amar Putusan: Hasil putusan dari pengadilan terkait kasus narkotika
+
+# Tujuan Dataset
+Dataset ini dirancang untuk:
+- Mendukung penelitian pada bidang Temu Kembali Informasi atau Information Retrieval di bidang hukum.
+- Mengoptimalkan proses preprocessing dan indexing putusan pengadilan untuk analisis lebih lanjut.
+- Membantu mengembangkan model atau sistem pencarian berbasis teks yang memudahkan pencarian putusan terkait kasus narkotika.
